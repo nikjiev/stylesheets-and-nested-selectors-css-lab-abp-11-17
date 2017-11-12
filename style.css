@@ -19,3 +19,8 @@ header nav ul {
   padding: 0px;
   margin-top: 40px 0px 0px 0px;
 }
+
+header nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
